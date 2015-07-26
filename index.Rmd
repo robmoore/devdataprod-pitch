@@ -67,4 +67,4 @@ pred <- percent(predict(model,
 
  Based on this model, the predicted chance of survival for a female adult 1st class passenger is `r pred`.
  
- However, the actual percent of these passengers who survived based on this data set is 97.2%. 
+ However, the actual percent of these passengers who survived based on this data set is 97.2%.
