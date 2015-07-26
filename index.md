@@ -1,8 +1,9 @@
 ---
-title       : 
-subtitle    : 
-author      : 
+title       : Titanic Odds
+subtitle    : Data Exploration in Shiny
+author      : Rob Moore
 job         : 
+logo     : PeopleTakeWarningTitanic.jpg
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
